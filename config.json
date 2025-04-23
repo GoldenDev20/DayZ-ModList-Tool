@@ -1,0 +1,16 @@
+{
+  "mods_folder": "./Mods",
+  "output_folder": "./output",
+  "export_formats": {
+    "excel": true,
+    "html": true,
+    "markdown": true
+  },
+  "columns": {
+    "mod_name": true,
+    "mod_version": false,
+    "status": true
+  },
+  "sort_order": "asc",
+  "use_color": true
+}
